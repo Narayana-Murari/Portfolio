@@ -24,8 +24,68 @@
   color: white;
 }
 
+.app-top-bar {
+  /* background-color: rgb(52, 98, 197); */
+  position: fixed;
+}
+
+
+.item {
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  min-height: 20px;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.landing-screen {
+  /* background-color: rgb(148, 199, 81); */
+  min-height: 70vh;
+}
+
+.app-footer {
+  /* background-color: rgb(108, 54, 134); */
+  min-height: 20vh;
+}
+
+.edu-block {
+  background-color: white;
+}
+
+.bx {
+  margin-left: 10px;
+}
+
+.typewriter, .Typewriter__cursor {
+  font-size: xx-large;
+  color: #0563bb;
+}
+
+.skill{
+  font-size: medium;
+}
+
+.progress{
+  min-height: 74px;
+}
+
+.footer-bx{
+  font-family: 'boxicons'!important;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    display: inline-block;
+    text-transform: none;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#hero {
+  background-image: url('./images/narayana_murari_bg1.jpeg');
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +96,4 @@
     transform: rotate(360deg);
   }
 }
+
