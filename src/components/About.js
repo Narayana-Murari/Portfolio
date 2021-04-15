@@ -14,7 +14,7 @@ class About extends Component {
 
                     <div className="section-title">
                         <h2>About</h2>
-                        <p>I love solving problems and leaning new programming languages &amp; technologies. I believe in Kaizen philosophy of improving oneself continously in small step increments which will compound significantly over the time.</p>
+                        <p>I love solving problems and learning new programming languages &amp; technologies. I believe in Kaizen philosophy of improving oneself continously in small step increments which will compound significantly over the time.</p>
                     </div>
 
                     <div className="row">
