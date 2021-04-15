@@ -35,7 +35,7 @@ class Projects extends Component {
                                     <p>Web Application</p>
                                     <div className="portfolio-links">
                                         <a href="images/portfolio/MyPortfolioImg.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
-                                        <a href="portfolio-details.html" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
+                                        <a href="https://github.com/Narayana-Murari/Portfolio" target="_blank" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
                                     </div>
                                 </div>
                             </div>

@@ -13,7 +13,7 @@ class Footer extends Component {
                         <a href="#" className="facebook"><i className="footer-bx bxl-facebook"></i></a>
                         <a href="#" className="instagram"><i className="footer-bx bxl-instagram"></i></a>
                         <a href="#" className="google-plus"><i className="footer-bx bxl-skype"></i></a>
-                        <a href="https://www.linkedin.com/in/narayana-murari-a68827113/" className="linkedin"><i className="footer-bx bxl-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/narayana-murari-a68827113/" target="_blank" className="linkedin"><i className="footer-bx bxl-linkedin"></i></a>
                     </div>
                     <div className="copyright">
                         &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved

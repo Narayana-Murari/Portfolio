@@ -26,7 +26,7 @@ class LandingPage extends Component {
                         <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
                         <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
                         <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
-                        <a href="https://www.linkedin.com/in/narayana-murari-a68827113/" className="linkedin"><i className="bx bxl-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/narayana-murari-a68827113/" target="_blank" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                     </div>
                 </div>
             </section>

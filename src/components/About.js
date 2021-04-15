@@ -29,7 +29,7 @@ class About extends Component {
                                 <div className="col-lg-6">
                                     <ul>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>14 August 1998</span></li>
-                                        <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                                        <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>http://narayana-murari.github.io/Portfolio</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 8861896647</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Hyderabad, India</span></li>
                                     </ul>
